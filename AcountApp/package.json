@@ -1,0 +1,33 @@
+{
+  "name": "contables",
+  "version": "1.0.0",
+  "description": "Aplicacion para la gestion de Procesos Contables",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JennyMonge/Contables.git"
+  },
+  "keywords": [
+    "Electron",
+    "Contabilidad",
+    "Libros",
+    "Reportes",
+    "Aplicacion",
+    "Multiplataforma"
+  ],
+  "author": "Jenny Monge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JennyMonge/Contables/issues"
+  },
+  "homepage": "https://github.com/JennyMonge/Contables#readme",
+  "devDependencies": {
+    "electron": "^15.1.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
